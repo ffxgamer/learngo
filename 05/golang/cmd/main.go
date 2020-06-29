@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	// "../../golang"
+
+	"github.com/ffxgamer/learngo/05/golang"
 )
 
 func main() {
